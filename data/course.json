@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Energy"
+    ],
+    [
+      "Engineering"
+    ],
+    [
+      "Health and Medicine"
+    ],
+    [
+      "Social Science"
+    ],
+    [
+      "Society"
+    ],
+    [
+      "Teaching and Education"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "49e4a4b9-ad4a-4eff-902d-c1bf22bb17a6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f458a904-622b-47a3-a989-266b0041962f",
+    "website": "d-lab-student-showcases"
+  },
+  "course_title": "D-Lab Student Showcases",
+  "hide_download": true,
+  "course_description": "Student projects in [D-Lab classes](https://d-lab.mit.edu/academics/classes) are defined by community partners and social ventures around the world. We don't always know what is needed, but our community partners do, and our students have technical knowledge and skills to contribute to that work.\n\nEach semester, through a selection of full-semester classes, our students form into teams to work on projects framed by community partners\u00a0\u2013 NGOs, local nonprofits, and social entrepreneurs. At the end of each semester, students present their work to their peers, partners, and guests.",
+  "department_numbers": [
+    "RES",
+    "EC"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.EC-003",
+  "course_image_thumbnail": {
+    "content": "f1db69e2-cd0a-42df-be8b-2859c1d42fb6",
+    "website": "d-lab-student-showcases"
+  },
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "site_uid": "0590306b-ea4d-4670-bd23-cd4cc624087f",
+  "site_short_id": "dlab-student-showcases-spring-2022"
+}
